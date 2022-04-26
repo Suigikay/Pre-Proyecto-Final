@@ -5,7 +5,9 @@
     margin: 4rem 2rem;
 }
 
-
+body {
+    overflow-x: hidden;
+}
 
 h2 {
     @extend #titlesh1h2;

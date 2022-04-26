@@ -5,6 +5,9 @@
   color: #c54d08;
   margin: 4rem 2rem; }
 
+body {
+  overflow-x: hidden; }
+
 h2 {
   padding: 1.5rem; }
 
